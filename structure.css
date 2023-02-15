@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.busines-card{
+    width: 692px;
+    height: 384px;
+    background-color: #fafafa;
+}
+
+.main{
+    display: flex;
+    background-color: aqua;
+    height: 174px;
+    margin-top: 96px;
+}
+
+.image {
+    width: 346px;
+    background-color: rgb(0, 154, 103);
+}
+.info {
+    background-color: rgb(0, 154, 33);
+    width: 346px;
+
+}
+
+.footer{
+    padding-top: 54px;
+    height: 96px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.bars{
+    background-color: blueviolet;
+    justify-content: space-between;
+    height: 18px;
+}
