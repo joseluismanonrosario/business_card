@@ -35,18 +35,22 @@ p{
     width: 100vw;
     height: 100vb;
     display: flex;
+    background-image: url(./images/cool_background.jpg);
     background-color: blue;
+    background-size: cover;
     justify-content: center;
     align-items: center;
+    
 
 }
 .busines-card{
     width: 692px;
     height: 384px;
     background-color: #fafafa;
+    box-shadow: 0px 10px 50px rgb(0, 0, 0);
 }
 img{
-    width: 240px;
+    height: 120px;
     padding-right: 45px;
 }
 .main{
